@@ -6,6 +6,7 @@ public class HelloTeacher {
 		// TODO Auto-generated method stub
 		System.out.println("소고기 먹고싶어용");
 		System.out.println("대방어 먹고싶어용");
+		System.out.println("배고파배고파배고파배고파");
 	
 		System.out.println("Gkgk");
 		System.out.println("jhADD");
