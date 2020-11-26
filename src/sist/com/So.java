@@ -6,6 +6,8 @@ public class So {
 		// TODO Auto-generated method stub
 		System.out.println("테스트1");
 		System.out.println("테스트2");
+		
+		System.out.println("11/26 5:47");
 	}
 
 }
