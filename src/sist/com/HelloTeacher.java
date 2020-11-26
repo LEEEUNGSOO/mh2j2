@@ -8,6 +8,7 @@ public class HelloTeacher {
 		System.out.println("대방어 먹고싶어용");
 	
 		System.out.println("Gkgk");
+		System.out.println("jhADD");
 	}
 
 }
